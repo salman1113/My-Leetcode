@@ -13,3 +13,5 @@ class Solution:
         root.left = self.sortedArrayToBST(nums[:mid])
         root.right = self.sortedArrayToBST(nums[mid + 1:])
         return root
+    
+    
