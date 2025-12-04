@@ -49,4 +49,3 @@ select x, y, z,
 from Triangle;
 
 
-
