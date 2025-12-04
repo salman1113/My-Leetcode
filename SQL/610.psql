@@ -48,4 +48,3 @@ select x, y, z,
     end as triangle
 from Triangle;
 
-
