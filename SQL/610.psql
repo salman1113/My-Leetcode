@@ -47,3 +47,8 @@ select x, y, z,
         else 'No'
     end as triangle
 from Triangle;
+
+
+
+
+
