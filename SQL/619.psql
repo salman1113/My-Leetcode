@@ -73,3 +73,8 @@ where num in(
     group by num
     having count(*) = 1
 )
+
+
+
+
+
