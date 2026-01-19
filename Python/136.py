@@ -38,7 +38,3 @@ class Solution:
         for num in nums:
             result ^= num
         return result
-    
-
-
-    
